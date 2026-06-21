@@ -14,7 +14,7 @@ https://rdpackages.github.io/replication
 
 - Dataset (supplement): [csv](CKTV_2021_JASA_SA.csv) | [dta](CKTV_2021_JASA_SA.dta)
 
-- Replication files: [R](CKTV_2021_JASA_SA.R) | [Stata](CKTV_2021_JASA_SA.Stata)
+- Replication files: [R](CKTV_2021_JASA.R) | [Stata](CKTV_2021_JASA.do)
 
 ## Reference
 
